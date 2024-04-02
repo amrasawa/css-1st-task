@@ -1,0 +1,21 @@
+.service{
+    text-align: center;
+    
+}
+h2{
+    font: bold;
+}
+.service-one{
+    display: inline-block;
+    width:20%;
+    text-align: center;
+
+}
+
+i{
+    color: coral;
+}
+p{
+   display: inline-block;
+    color:grey;
+}
